@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minecraft_qr_generator", "minecraft_qr_generator\minecraft_qr_generator.csproj", "{F201D478-5569-4570-8A50-26F7F38AC9AE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Minecraft QR Generator Installer", "MCQR-Installer\MCQR-Installer.vdproj", "{15B342E0-C224-4AA6-B0FC-71A078F6D27A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minecraft_qr_generator_setting", "..\minecraft_qr_generator_setting\minecraft_qr_generator_setting\minecraft_qr_generator_setting.csproj", "{B39A5B51-AE97-49B7-BA0B-FF318E0AFA4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mcqr_dialog", "..\mcqr_dialog\mcqr_dialog\mcqr_dialog.csproj", "{BA16B5D0-B988-4931-845A-05E20D450009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F201D478-5569-4570-8A50-26F7F38AC9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F201D478-5569-4570-8A50-26F7F38AC9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F201D478-5569-4570-8A50-26F7F38AC9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F201D478-5569-4570-8A50-26F7F38AC9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B342E0-C224-4AA6-B0FC-71A078F6D27A}.Debug|Any CPU.ActiveCfg = Debug
+		{15B342E0-C224-4AA6-B0FC-71A078F6D27A}.Release|Any CPU.ActiveCfg = Release
+		{B39A5B51-AE97-49B7-BA0B-FF318E0AFA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39A5B51-AE97-49B7-BA0B-FF318E0AFA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39A5B51-AE97-49B7-BA0B-FF318E0AFA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39A5B51-AE97-49B7-BA0B-FF318E0AFA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA16B5D0-B988-4931-845A-05E20D450009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA16B5D0-B988-4931-845A-05E20D450009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA16B5D0-B988-4931-845A-05E20D450009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA16B5D0-B988-4931-845A-05E20D450009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFAAF034-929F-4585-9724-0FF44B49F9F2}
+	EndGlobalSection
+EndGlobal
